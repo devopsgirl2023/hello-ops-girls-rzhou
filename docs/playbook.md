@@ -1,5 +1,7 @@
 # Devops girls workshop playbook
 
+
+
 这是一个Devops girls workshop指南。该指南将引导大家从0开始学习如何将一个应用容器化，并通过CI流水线将该应用部署到AWS云资源上。
 
 ## Prerequisite
